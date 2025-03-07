@@ -25,7 +25,23 @@
     "Alpha Component" : 1,
     "Green Component" : 0.99032300710678101
   },
-  "Normal Font" : "MesloLGSDZNFM-Regular 26",
+  "Normal Font" : "JetBrainsMonoNF-Regular 18",
+  "Ansi 0 Color" : {
+    "Red Component" : 0,
+    "Color Space" : "sRGB",
+    "Blue Component" : 0,
+    "Alpha Component" : 1,
+    "Green Component" : 0
+  },
+  "Ansi 1 Color" : {
+    "Red Component" : 0.85098040103912354,
+    "Color Space" : "sRGB",
+    "Blue Component" : 0.16078431904315948,
+    "Alpha Component" : 1,
+    "Green Component" : 0.015686275437474258
+  },
+  "Rows" : 25,
+  "Default Bookmark" : "No",
   "Ansi 2 Color" : {
     "Red Component" : 0.22745098173618317,
     "Color Space" : "sRGB",
@@ -33,16 +49,6 @@
     "Alpha Component" : 1,
     "Green Component" : 0.85098040103912354
   },
-  "Ansi 4 Color" : {
-    "Red Component" : 0.4117647111415863,
-    "Color Space" : "sRGB",
-    "Blue Component" : 1,
-    "Alpha Component" : 1,
-    "Green Component" : 0.26274511218070984
-  },
-  "Rows" : 25,
-  "Default Bookmark" : "No",
-  "Right Option Key Sends" : 0,
   "Cursor Guide Color" : {
     "Red Component" : 0.70213186740875244,
     "Color Space" : "sRGB",
@@ -59,6 +65,7 @@
     "Alpha Component" : 1,
     "Green Component" : 0.83137261867523193
   },
+  "Icon" : 0,
   "Ambiguous Double Width" : false,
   "Jobs to Ignore" : [
     "rlogin",
@@ -80,7 +87,7 @@
     "Alpha Component" : 1,
     "Green Component" : 1
   },
-  "Working Directory" : "\/Users\/vlas\/programming",
+  "Working Directory" : "~\/programming",
   "Blinking Cursor" : false,
   "Disable Window Resizing" : true,
   "Sync Title" : false,
@@ -309,6 +316,7 @@
     "Alpha Component" : 0.5,
     "Green Component" : 0.1491314172744751
   },
+  "Initial Text" : "",
   "Scrollback Lines" : 1000,
   "Send Code When Idle" : false,
   "Close Sessions On End" : true,
@@ -340,24 +348,16 @@
     "Alpha Component" : 1,
     "Green Component" : 0.81568628549575806
   },
-  "Transparency" : 0.082579787234042551,
+  "Transparency" : 0.082579787234042537,
   "Guid" : "2A079F24-16A6-4E69-B831-9D77378B92C6",
   "Custom Directory" : "Yes",
-  "Ansi 0 Color" : {
-    "Red Component" : 0,
+  "Ansi 3 Color" : {
+    "Red Component" : 1,
     "Color Space" : "sRGB",
     "Blue Component" : 0,
     "Alpha Component" : 1,
-    "Green Component" : 0
+    "Green Component" : 0.90588241815567017
   },
-  "Ansi 1 Color" : {
-    "Red Component" : 0.85098040103912354,
-    "Color Space" : "sRGB",
-    "Blue Component" : 0.16078431904315948,
-    "Alpha Component" : 1,
-    "Green Component" : 0.015686275437474251
-  },
-  "Horizontal Spacing" : 1,
   "Link Color" : {
     "Red Component" : 0,
     "Color Space" : "sRGB",
@@ -365,6 +365,14 @@
     "Alpha Component" : 1,
     "Green Component" : 0.35916060209274292
   },
+  "Ansi 5 Color" : {
+    "Red Component" : 1,
+    "Color Space" : "sRGB",
+    "Blue Component" : 0.43921792507171631,
+    "Alpha Component" : 1,
+    "Green Component" : 0.17081758379936218
+  },
+  "Horizontal Spacing" : 1,
   "Ansi 7 Color" : {
     "Red Component" : 0.7810397744178772,
     "Color Space" : "sRGB",
@@ -386,18 +394,12 @@
     "Alpha Component" : 1,
     "Green Component" : 0.16470575332641602
   },
-  "Ansi 3 Color" : {
-    "Red Component" : 1,
+  "Ansi 4 Color" : {
+    "Red Component" : 0.4117647111415863,
     "Color Space" : "sRGB",
-    "Blue Component" : 0,
+    "Blue Component" : 1,
     "Alpha Component" : 1,
-    "Green Component" : 0.90588241815567017
+    "Green Component" : 0.26274511218070984
   },
-  "Ansi 5 Color" : {
-    "Red Component" : 1,
-    "Color Space" : "sRGB",
-    "Blue Component" : 0.43921792507171631,
-    "Alpha Component" : 1,
-    "Green Component" : 0.17081758379936218
-  }
+  "Right Option Key Sends" : 0
 }
